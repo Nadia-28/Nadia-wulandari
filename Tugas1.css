@@ -1,0 +1,79 @@
+* {
+  background-color: rgb(80, 211, 226);
+}
+
+#MI > img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 35%;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+#MI > h1 {
+  text-align: justify;
+  font-family: "Bitter", serif;
+}
+
+#MI > h3 {
+  text-align: justify;
+  color: green;
+  margin-left: 30px;
+  font-family: "Reddit Sans Condensed", sans-serif;
+  width: auto;
+}
+
+#MI > P1 {
+  text-align: justify;
+  color: brown;
+  font-family: "Teko", sans-serif;
+  width: auto;
+}
+
+#MI > P2 {
+  text-align: justify;
+  color: orchid;
+  font-family: "Chakra Petch", sans-serif;
+  width: auto;
+}
+#MI > P3 {
+  text-align: justify;
+  color: rgb(38, 134, 172);
+  font-family: "Freeman", sans-serif;
+  width: auto;
+}
+#MI > P4 {
+  text-align: justify;
+  color: rgb(38, 172, 103);
+  font-family: "Comfortaa", sans-serif;
+  width: auto;
+}
+
+#POLSRI > .image1 {
+  width: 200px;
+  padding-left: 20px;
+  margin-left: 20px;
+}
+
+#POLSRI > .image2 {
+  width: 200px;
+  height: 250%;
+}
+
+#POLSRI > .image4 {
+  width: 450px;
+  height: 250%;
+}
+
+#POLSRI > img {
+  width: 360px;
+  border: 30px;
+}
+
+#POLSRI {
+  display: flex;
+}
